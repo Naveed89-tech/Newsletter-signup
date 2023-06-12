@@ -14,7 +14,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github](https://github.com/Naveed89-tech/Newsletter-signup)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -62,6 +61,7 @@ As I continue to progress in my journey of learning React, I plan to primarily f
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Naveed](https://naveedtechs.netlify.app/)
+- Twitter - [@Naveed_Tech_T](https://twitter.com/Naveed_Tech_T)
+- LinkedIn- [hammad Naveed](https://www.linkedin.com/in/muhammad-naveed-857600231/)
+- Frontend Mentor - [@Naveed89-tech](https://www.frontendmentor.io/profile/Naveed89-tech)
