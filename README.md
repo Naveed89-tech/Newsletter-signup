@@ -1,6 +1,6 @@
 # Frontend Mentor - Newsletter sign-up form with success message solution
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor]. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the Newsletter sign-up form with success message challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -63,5 +63,5 @@ As I continue to progress in my journey of learning React, I plan to primarily f
 
 - Website - [Naveed](https://naveedtechs.netlify.app/)
 - Twitter - [@Naveed_Tech_T](https://twitter.com/Naveed_Tech_T)
-- LinkedIn- [hammad Naveed](https://www.linkedin.com/in/muhammad-naveed-857600231/)
+- LinkedIn- [Muhammad Naveed](https://www.linkedin.com/in/muhammad-naveed-857600231/)
 - Frontend Mentor - [@Naveed89-tech](https://www.frontendmentor.io/profile/Naveed89-tech)
