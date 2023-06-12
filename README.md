@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Naveed89-tech/Newsletter-signup)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site [netlify]](https://newsletter-signup-form-f.netlify.app/)
 
 ## My process
 
